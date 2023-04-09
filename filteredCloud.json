@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Amazon Web Services (AWS)",
+        "homepage": "aws.amazon.com",
+        "twitter": "https://twitter.com/awscloud?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "AWS is one of the most popular and widely used cloud platforms in the world, with a vast global network of data centers and services that can be used by individuals, businesses, and governments. Customers can use AWS to create and run applications and services that can scale up or down based on demand, without the need for significant upfront investment in hardware or infrastructure.\n\n\nOverall, AWS provides a robust and flexible cloud platform that enables customers to build and deploy a wide range of applications and services in the cloud."
+    },
+    {
+        "name": "Azure ",
+        "homepage": "azure.microsoft.com",
+        "twitter": "https://twitter.com/Azure?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "Azure provides a robust and flexible cloud platform that enables customers to build and deploy a wide range of applications and services in the cloud, with a particular focus on integration with Microsoft's existing product ecosystem."
+    },
+    {
+        "name": "Google Cloud Platform",
+        "homepage": "cloud.google.com",
+        "twitter": "https://twitter.com/googlecloud?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "GCP stands for Google Cloud Platform, which is a cloud computing platform provided by Google. It offers a wide range of cloud-based services, including computing, storage, databases, analytics, machine learning, networking, mobile, development tools, security, and enterprise applications.\n\nGCP enables customers to create, deploy, and manage applications and services on a global network of data centers hosted by Google. It supports a wide range of programming languages, frameworks, and tools, and provides both Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) offerings to meet the needs of different types of applications and workloads."
+    },
+    {
+        "name": "Oracle Cloud ",
+        "homepage": "https://www.oracle.com/in/cloud/",
+        "twitter": "https://twitter.com/OracleCloud?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "Oracle Cloud is a cloud computing platform provided by Oracle Corporation. It offers a wide range of cloud-based services, including computing, storage, databases, analytics, machine learning, networking, mobile, development tools, security, and enterprise applications.\n\nOracle Cloud enables customers to create, deploy, and manage applications and services on a global network of data centers hosted by Oracle. It supports a wide range of programming languages, frameworks, and tools, and provides both Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) offerings to meet the needs of different types of applications and workloads."
+    },
+    {
+        "name": "IBM Cloud ",
+        "homepage": "https://www.ibm.com/cloud",
+        "twitter": "https://twitter.com/OracleCloud?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthorr",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "IBM Cloud is a cloud computing platform provided by IBM. It offers a wide range of cloud-based services, including computing, storage, databases, analytics, machine learning, networking, mobile, development tools, security, and enterprise applications.\n\nIBM Cloud enables customers to create, deploy, and manage applications and services on a global network of data centers hosted by IBM. It supports a wide range of programming languages, frameworks, and tools, and provides both Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) offerings to meet the needs of different types of applications and workloads."
+    },
+    {
+        "name": "Alibaba Cloud",
+        "homepage": "https://in.alibabacloud.com",
+        "twitter": "https://twitter.com/alibaba_cloud?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "Alibaba Cloud, also known as Aliyun, is a cloud computing platform provided by Alibaba Group, one of the largest e-commerce companies in the world. It offers a wide range of cloud-based services, including computing, storage, databases, analytics, machine learning, networking, mobile, development tools, security, and enterprise applications.\n\nAlibaba Cloud enables customers to create, deploy, and manage applications and services on a global network of data centers hosted by Alibaba Group. It supports a wide range of programming languages, frameworks, and tools, and provides both Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) offerings to meet the needs of different types of applications and workloads."
+    },
+    {
+        "name": "Digital Ocean",
+        "homepage": "https://www.digitalocean.com/",
+        "twitter": "https://twitter.com/digitalocean?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "DigitalOcean is a cloud computing platform that provides virtual private servers (VPS), cloud-based storage, and networking services for developers and small businesses. It offers a simple and intuitive user interface, and is known for its ease of use and affordability.\n\nDigitalOcean enables customers to create and manage cloud-based infrastructure for their applications, websites, and other projects. It supports a wide range of programming languages, frameworks, and tools, and provides a range of pre-configured virtual machine images (called \"Droplets\") that can be quickly deployed to the cloud.\n\n"
+    },
+    {
+        "name": "Linode",
+        "homepage": "https://www.linode.com/",
+        "twitter": "https://twitter.com/linode?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": ""
+    },
+    {
+        "name": "Tencent Cloud ",
+        "homepage": "https://www.tencentcloud.com/",
+        "twitter": "https://twitter.com/tencentcloud?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "Tencent Cloud is a cloud computing platform provided by Tencent, one of the largest technology companies in China. It offers a wide range of cloud-based services, including computing, storage, databases, analytics, machine learning, networking, mobile, development tools, security, and enterprise applications.\n\nTencent Cloud enables customers to create, deploy, and manage applications and services on a global network of data centers hosted by Tencent. It supports a wide range of programming languages, frameworks, and tools, and provides both Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) offerings to meet the needs of different types of applications and workloads."
+    },
+    {
+        "name": "OVH Cloud ",
+        "homepage": "https://www.ovhcloud.com/",
+        "twitter": "https://twitter.com/OVHcloud?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "OVH Cloud is a cloud computing platform that provides a range of cloud-based services, including virtual private servers (VPS), dedicated servers, public and private cloud hosting, and managed services. It offers a range of tools and solutions for businesses of all sizes and provides a global network of data centers.\n\nOVH Cloud enables customers to create and manage cloud-based infrastructure for their applications, websites, and other projects. It supports a wide range of programming languages, frameworks, and tools, and provides a range of pre-configured virtual machine images that can be quickly deployed to the cloud.\n\n"
+    },
+    {
+        "name": "Heroku",
+        "homepage": "https://www.heroku.com/",
+        "twitter": "https://mobile.twitter.com/heroku/with_replies",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": "Heroku is a cloud platform as a service (PaaS) that enables developers to build, deploy, and manage web applications and services. It provides a simple and intuitive user interface and supports a wide range of programming languages, frameworks, and tools.\n\nHeroku is known for its ease of use and developer productivity. It simplifies the deployment process, and allows developers to focus on building and scaling their applications without worrying about the underlying infrastructure. Heroku provides a range of services, including databases, messaging, logging, and monitoring, that are integrated into the platform and can be easily added to applications."
+    },
+    {
+        "name": "",
+        "homepage": "",
+        "twitter": "",
+        "pricing": "Paid",
+        "category": "Cloud Platform",
+        "sub_category": "PaaS & SaaS",
+        "description": ""
+    }
+]

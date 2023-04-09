@@ -1,0 +1,68 @@
+{
+  "Orchestration & Management": [
+    "API Gateway",
+    "Scheduling & Orchestration",
+    "Service Proxy",
+    "Coordination & Service Discovery",
+    "Remote Procedure Call",
+    "Service Mesh"
+  ],
+  "Serverless": [
+    "Framework",
+    "Security",
+    "Tools",
+    "Hosted Platform",
+    "Installable Platform"
+  ],
+  "Observability and Analysis": [
+    "Chaos Engineering",
+    "Logging",
+    "Continuous Optimization",
+    "Monitoring",
+    "Tracing"
+  ],
+  "Provisioning": [
+    "Container Registry",
+    "Security & Compliance",
+    "Automation & Configuration",
+    "Key Management"
+  ],
+  "Platform": [
+    "Certified Kubernetes - Hosted",
+    "Certified Kubernetes - Distribution",
+    "PaaS/Container Service",
+    "Certified Kubernetes - Installer"
+  ],
+  "App Definition and Development": [
+    "Application Definition & Image Build",
+    "Streaming & Messaging",
+    "Continuous Integration & Delivery",
+    "Database"
+  ],
+  "Wasm": [
+    "Toolchain",
+    "Specifications",
+    "Installable Platform",
+    "Debugging and Observability",
+    "Packaging, Registries & Application Delivery",
+    "Runtime"
+  ],
+  "CNCF Members": [
+    "Platinum",
+    "Gold",
+    "Silver",
+    "Academic",
+    "Nonprofit",
+    "End User Supporter"
+  ],
+  "Runtime": [
+    "Container Runtime",
+    "Cloud Native Network",
+    "Cloud Native Storage"
+  ],
+  "Special": [
+    "Kubernetes Certified Service Provider",
+    "Kubernetes Training Partner",
+    "Certified CNFs"
+  ]
+}
